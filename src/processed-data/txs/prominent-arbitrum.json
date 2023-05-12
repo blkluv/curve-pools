@@ -2,17 +2,49 @@
   "0x960ea3e3C7FB317332d990873d354E18d7645590": [],
   "0x7f90122BF0700F9E7e1F688fe926940E8839F353": [
     {
+      "hash": "0x6c2a228c48d855105a983dbb7f905d8892d02e495491a449683486775254cff6",
+      "pool": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
+      "timestamp": 1683875979,
+      "type": "remove_liquidity",
+      "totalUsdAmount": "445268.61858337759805",
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+          "tokenAmount": "444379.858865646305439305",
+          "usdAmount": "445268.61858337759805",
+          "type": "remove"
+        }
+      ]
+    },
+    {
+      "hash": "0x7a9cd2cf9befa09417fe033fad903c6092abcff316d4653af20f616083b90e72",
+      "pool": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
+      "timestamp": 1683875889,
+      "type": "remove_liquidity",
+      "totalUsdAmount": "484835.29109532967902",
+      "tokens": [
+        {
+          "symbol": "USDC",
+          "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+          "tokenAmount": "483867.555983362953111041",
+          "usdAmount": "484835.29109532967902",
+          "type": "remove"
+        }
+      ]
+    },
+    {
       "hash": "0xedf54b9e6d128886707ca5d67ff0879b5793d112a878c63dbc5b7f02ad1195ae",
       "pool": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
       "timestamp": 1683811914,
       "type": "remove_liquidity",
-      "totalUsdAmount": "205604.2021337967682",
+      "totalUsdAmount": "206118.05733061500801",
       "tokens": [
         {
           "symbol": "USDC",
           "address": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
           "tokenAmount": "205706.644042529948115054",
-          "usdAmount": "205604.2021337967682",
+          "usdAmount": "206118.05733061500801",
           "type": "remove"
         }
       ]
@@ -90,22 +122,6 @@
           "type": "add"
         }
       ]
-    },
-    {
-      "hash": "0x90f04ff842af01bdf87e210bc8b5c09ea4e03695696139738120c7bc07342f14",
-      "pool": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
-      "timestamp": 1683271272,
-      "type": "add_liquidity",
-      "totalUsdAmount": "268028.402920278",
-      "tokens": [
-        {
-          "symbol": "USDT",
-          "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
-          "tokenAmount": "267760.642278",
-          "usdAmount": "268028.402920278",
-          "type": "add"
-        }
-      ]
     }
   ],
   "0x6eB2dc694eB516B16Dc9FBc678C60052BbdD7d80": [
@@ -114,20 +130,20 @@
       "pool": "0x6eB2dc694eB516B16Dc9FBc678C60052BbdD7d80",
       "timestamp": 1683631579,
       "type": "add_liquidity",
-      "totalUsdAmount": "364954.85070492234819",
+      "totalUsdAmount": "359535.46977298741437",
       "tokens": [
         {
           "symbol": "ETH",
           "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
           "tokenAmount": "100",
-          "usdAmount": "179605",
+          "usdAmount": "177008",
           "type": "add"
         },
         {
           "symbol": "wstETH",
           "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
           "tokenAmount": "91.8217406",
-          "usdAmount": "185349.85070492234819",
+          "usdAmount": "182527.46977298741437",
           "type": "add"
         }
       ]
@@ -137,20 +153,20 @@
       "pool": "0x6eB2dc694eB516B16Dc9FBc678C60052BbdD7d80",
       "timestamp": 1683518341,
       "type": "add_liquidity",
-      "totalUsdAmount": "574006.8572914830308",
+      "totalUsdAmount": "565486.9165479955282",
       "tokens": [
         {
           "symbol": "ETH",
           "address": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
           "tokenAmount": "160",
-          "usdAmount": "287368",
+          "usdAmount": "283212.8",
           "type": "add"
         },
         {
           "symbol": "wstETH",
           "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
           "tokenAmount": "142",
-          "usdAmount": "286638.8572914830308",
+          "usdAmount": "282274.1165479955282",
           "type": "add"
         }
       ]
